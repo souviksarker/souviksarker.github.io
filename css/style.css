@@ -1072,6 +1072,9 @@ h3.about{
     margin-bottom: 30px;
     margin-left: 0px;
   }
+  body{
+    overflow-x: hidden;
+  }
   .bg-img{
     background-image: url(../img/bg-hero-iphone.jpg);
     background-repeat: no-repeat;
