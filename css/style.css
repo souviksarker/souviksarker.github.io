@@ -1075,6 +1075,9 @@ h3.about{
   body{
     overflow-x: hidden;
   }
+  .section-title-sub{
+    font-size: 40px;
+  }
   .bg-img{
     background-image: url(../img/bg-hero-iphone.jpg);
     background-repeat: no-repeat;
