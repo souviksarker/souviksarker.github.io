@@ -233,6 +233,10 @@ ol {
 .section-sub-line {
     margin-bottom: 80px;
     text-transform: capitalize;
+    margin-bottom: 80px;
+    text-transform: inherit;
+    line-height: 1.5;
+    font-size: 17px;
 }
 
 .inner {
